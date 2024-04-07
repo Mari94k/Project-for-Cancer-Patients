@@ -1,4 +1,4 @@
-# 📌Project for Cancer Patients
+# 📌 ML Project for Cancer Patients
 
 
 ▪In this project, we delved into a dataset encapsulating various health metric from cancer patients. 
